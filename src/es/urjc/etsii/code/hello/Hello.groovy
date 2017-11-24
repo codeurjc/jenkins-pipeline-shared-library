@@ -1,4 +1,4 @@
-package es.urjc.estii.code.hello;
+package es.urjc.etsii.code.hello;
 
 class Hello {
 def hello(name) {
